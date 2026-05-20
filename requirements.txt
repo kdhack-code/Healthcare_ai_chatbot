@@ -2,3 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn==1.5.2
+nltk
+requests==2.31.0
+python-dotenv==1.0.0
+spacy==3.7.2
